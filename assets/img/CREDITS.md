@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Марія Факащук
+- hero/therapy.jpg — Yan Krukau
+- infra/pool.jpg — cottonbro studio
+- rooms/r1.jpg — Max Vakhtbovych
+- rooms/r2.jpg — Max Vakhtbovych
+- rooms/r3.jpg — Donald Tong
+- rooms/r4.jpg — Nothing Ahead
+- infra/build.jpg — Martin Leitgeb
+- infra/sauna.jpg — Max Vakhtbovych
+- infra/forest.jpg — adam rozanski
